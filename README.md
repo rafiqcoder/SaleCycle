@@ -1,6 +1,7 @@
 ## Process to install
 
 * install node js
+* install git
 * run " git clone link "
 * run on terminal " npm i "
 * run " npm run dev "
